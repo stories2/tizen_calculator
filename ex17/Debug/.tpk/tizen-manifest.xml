@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="org.example.ex17" version="1.0.0">
+	<profile name="mobile" />
+	<ui-application appid="org.example.ex17" exec="ex17" type="capp" multiple="false" taskmanage="true" nodisplay="false">
+		<icon>ex17.png</icon>
+		<label>ex17</label>
+	</ui-application>
+</manifest>
